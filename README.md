@@ -10,7 +10,7 @@ O design da pagina foi criado com base em uma landing page disponibilizada pela 
 
 Desde já, agradeço a visita neste projeto! Até mais...
 
-EN
+EN - US
 
 Hi,
 
